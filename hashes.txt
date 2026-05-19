@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - King of Temptation
+
+This log tracks the cryptographic history and versioning for the song **King of Temptation** (king-of-temptation).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-19T20:22:17.253195 | `v1` | `f83100f8b724495f841582839fa1aef02f6e230180eb8c2d30faa45a007431ce` | `c4c0c3a95916919d58e6ae2f16250e20d6cbf91401c47bb08272a4f6d0087edf` | `2026-05-19_king-of-temptation-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
